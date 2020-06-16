@@ -1,0 +1,6 @@
+struct HelloWorld
+{
+    uint64 index;
+    uint64 timestamp;
+    string message;
+};
